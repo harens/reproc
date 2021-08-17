@@ -93,11 +93,16 @@ have to clear CMake's cache to apply the new default value.**
 For more information on configuring reproc's build, see
 [CMake options](#cmake-options).
 
+<a href="https://repology.org/project/reproc/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/reproc.svg" alt="Packaging status" align="right">
+</a>
+
 You can also depend on an installed version of reproc. You can either build and
 install reproc yourself or install reproc via a package manager. reproc is
 available in the following package repositories:
 
 - Arch User Repository (<https://aur.archlinux.org/packages/reproc>)
+- MacPorts (https://ports.macports.org/port/reproc/)
 - vcpkg (https://github.com/microsoft/vcpkg/tree/master/ports/reproc)
 
 If using a package manager is not an option, you can build and install reproc
